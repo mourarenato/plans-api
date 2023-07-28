@@ -1,0 +1,19 @@
+{
+    "name": "php/plans-api",
+    "description": "Plans api",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Renato Moura"
+        }
+    ],
+    "require": {
+        "php": "^8.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}

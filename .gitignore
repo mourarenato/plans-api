@@ -1,0 +1,5 @@
+/public/files/proposta.json
+/vendor
+docker-compose.yml
+/.idea
+/.vscode
